@@ -9,3 +9,4 @@ Created using Arduino Nano
 * 12V powersupply for the solenoid lock
 * Breadboard and breadboard power supply module.
 
+[Circuit](https://www.tinkercad.com/things/72Z14QLUV1C-loxbox-circuit)
