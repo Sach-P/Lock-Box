@@ -1,4 +1,4 @@
-# Lock-Box
+# Lockbox
 
 Created using Arduino Nano
 * Solenoid lock
